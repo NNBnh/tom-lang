@@ -2,22 +2,22 @@
 
 /* --------------------------------- Config --------------------------------- */
 
-let langRight  = ">";
-let langLeft   = "<";
-let langIncmnt = "+";
-let langDecmnt = "-";
-let langOutput = ".";
-let langInput  = ",";
-let langOpen   = "[";
-let langClose  = "]";
+let langRight  = "t";
+let langLeft   = "o";
+let langIncmnt = "m";
+let langDecmnt = "_";
+let langOutput = "l";
+let langInput  = "a";
+let langOpen   = "n";
+let langClose  = "g";
 
-let langName = "Brainfuck";
-let langPage = "https://esolangs.org/wiki/Brainfuck";
+let langName = "tom-lang";
+let langPage = "https://github.com/NNBnh/tom-lang";
 
-let authorName = "Urban Müller";
-let authorPage = "https://esolangs.org/wiki/Urban_M%C3%BCller";
+let authorName = "NNB";
+let authorPage = "https://github.com/NNBnh";
 
-let description = "Brainfuck is an esoteric programming language created in 1993 notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers. Brainfuck simply requires one to break commands into microscopic steps.";
+let description = "🎉🎁🎉";
 
 /* -------------------------------------------------------------------------- */
 
