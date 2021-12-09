@@ -1,4 +1,5 @@
-<pre align="center">mmmmmmmmmm  ntmmmmmmmt  mmmmmmmmmm
+```console
+mmmmmmmmmm  ntmmmmmmmt  mmmmmmmmmm
     tm      mm      mm  mm  mm  mm
     tm      mm      tm  mm  mm  mm
     mt      mm      mm  mm  mm  mm
@@ -9,7 +10,8 @@
   mm      mm  mm  lt  --  --
   --      -lmmlo  -l  --  --
   l-      --  lt  mm  mm  ml  tl
-  tmmmml  tm  l-  -l  oo  mlll;)</pre>
+  tmmmml  tm  l-  -l  oo  mlll;)
+```
 
 ## Hello, World!
 
